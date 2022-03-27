@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  CoinCapApp
+
+  Created by d.leonova on 22.03.2022.
+  
+*/
+
+"assets_list_view_controller_title" = "Assets";
+"assets_list_tab_bar_item_title" = "Assets";
+
+"watch_list_assets_list_view_controller_title" = "Watchlist";
+"watch_list_assets_list_tab_bar_item_title" = "Watchlist";
+
+"settings_view_controller_title" = "Settings";
+"settings_tab_bar_item_title" = "Settings";
